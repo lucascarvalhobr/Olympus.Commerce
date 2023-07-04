@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "OVdC46ufwWAMCeLNkMgwy2p6iLdad5XgbBGD8yowXYzRv7BAH7MDlOTvoTmVTe6RIv9LNVoy+fQmBoan/ohzLw==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Olympus.Commerce\\src\\dotnet\\Olympus.Commerce.Product\\Olympus.Commerce.Product.API\\Olympus.Commerce.Product.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\The Office\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.7\\microsoft.aspnetcore.openapi.7.0.7.nupkg.sha512",
+    "C:\\Users\\The Office\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\The Office\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\The Office\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\The Office\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\The Office\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\The Office\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
