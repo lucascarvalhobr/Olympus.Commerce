@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+tZJssMv6Mq5I6gX2DzCKEgOWnrBb9gKYA8ljvdfXESqlHa2zNguIQRFgWek35QmSGFRUFvrR6RSTNAoFBHKqQ==",
+  "dgSpecHash": "b+kzQH+0gd4VxYcqh6GWwYDjTtagKX/3zu7jdeMM9XT3CpR67wM88h4e7g6C07FBWgjuAmMl9MCzWdoCN5vSuA==",
   "success": true,
   "projectFilePath": "C:\\Projects\\Olympus.Commerce\\src\\dotnet\\Olympus.Commerce.Product\\Tests\\Olympus.Commerce.Product.UnitTests\\Olympus.Commerce.Product.UnitTests.csproj",
   "expectedPackageFiles": [

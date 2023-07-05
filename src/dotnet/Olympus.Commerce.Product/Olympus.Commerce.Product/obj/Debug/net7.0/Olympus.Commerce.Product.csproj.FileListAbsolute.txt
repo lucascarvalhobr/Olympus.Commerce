@@ -1,0 +1,12 @@
+C:\Projects\Olympus.Commerce\src\dotnet\Olympus.Commerce.Product\Olympus.Commerce.Product\obj\Debug\net7.0\Olympus.Commerce.Product.csproj.AssemblyReference.cache
+C:\Projects\Olympus.Commerce\src\dotnet\Olympus.Commerce.Product\Olympus.Commerce.Product\obj\Debug\net7.0\Olympus.Commerce.Product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Olympus.Commerce\src\dotnet\Olympus.Commerce.Product\Olympus.Commerce.Product\obj\Debug\net7.0\Olympus.Commerce.Product.AssemblyInfoInputs.cache
+C:\Projects\Olympus.Commerce\src\dotnet\Olympus.Commerce.Product\Olympus.Commerce.Product\obj\Debug\net7.0\Olympus.Commerce.Product.AssemblyInfo.cs
+C:\Projects\Olympus.Commerce\src\dotnet\Olympus.Commerce.Product\Olympus.Commerce.Product\obj\Debug\net7.0\Olympus.Commerce.Product.csproj.CoreCompileInputs.cache
+C:\Projects\Olympus.Commerce\src\dotnet\Olympus.Commerce.Product\Olympus.Commerce.Product\bin\Debug\net7.0\Olympus.Commerce.Product.deps.json
+C:\Projects\Olympus.Commerce\src\dotnet\Olympus.Commerce.Product\Olympus.Commerce.Product\bin\Debug\net7.0\Olympus.Commerce.Product.dll
+C:\Projects\Olympus.Commerce\src\dotnet\Olympus.Commerce.Product\Olympus.Commerce.Product\bin\Debug\net7.0\Olympus.Commerce.Product.pdb
+C:\Projects\Olympus.Commerce\src\dotnet\Olympus.Commerce.Product\Olympus.Commerce.Product\obj\Debug\net7.0\Olympus.Commerce.Product.dll
+C:\Projects\Olympus.Commerce\src\dotnet\Olympus.Commerce.Product\Olympus.Commerce.Product\obj\Debug\net7.0\refint\Olympus.Commerce.Product.dll
+C:\Projects\Olympus.Commerce\src\dotnet\Olympus.Commerce.Product\Olympus.Commerce.Product\obj\Debug\net7.0\Olympus.Commerce.Product.pdb
+C:\Projects\Olympus.Commerce\src\dotnet\Olympus.Commerce.Product\Olympus.Commerce.Product\obj\Debug\net7.0\ref\Olympus.Commerce.Product.dll

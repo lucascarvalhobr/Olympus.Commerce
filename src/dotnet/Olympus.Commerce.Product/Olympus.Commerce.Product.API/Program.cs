@@ -1,11 +1,24 @@
+using Microsoft.EntityFrameworkCore;
+using Olympus.Commerce.Product.Infra;
+using Olympus.Commerce.Product.Infra.Repositories;
+using Olympus.Commerce.Product.Infra.Services;
+using Olympus.Commerce.Product.Repositories;
+using Olympus.Commerce.Product.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddDbContext<ProductDbContext>(
+    options =>
+        options.UseSqlServer(
+            builder.Configuration.GetConnectionString("OlympusDatabase"),
+            x => x.MigrationsAssembly("Olympus.Commerce.Product.Infra")));
 
-builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped<IProductService, ProductService>();
 
 var app = builder.Build();
 

@@ -1,0 +1,17 @@
+C:\Projects\Olympus.Commerce\src\dotnet\Olympus.Commerce.Product\Olympus.Commerce.Product.Infra\obj\Debug\net7.0\Olympus.Commerce.Product.Infra.csproj.AssemblyReference.cache
+C:\Projects\Olympus.Commerce\src\dotnet\Olympus.Commerce.Product\Olympus.Commerce.Product.Infra\obj\Debug\net7.0\Olympus.Commerce.Product.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Olympus.Commerce\src\dotnet\Olympus.Commerce.Product\Olympus.Commerce.Product.Infra\obj\Debug\net7.0\Olympus.Commerce.Product.Infra.AssemblyInfoInputs.cache
+C:\Projects\Olympus.Commerce\src\dotnet\Olympus.Commerce.Product\Olympus.Commerce.Product.Infra\obj\Debug\net7.0\Olympus.Commerce.Product.Infra.AssemblyInfo.cs
+C:\Projects\Olympus.Commerce\src\dotnet\Olympus.Commerce.Product\Olympus.Commerce.Product.Infra\obj\Debug\net7.0\Olympus.Commerce.Product.Infra.csproj.CoreCompileInputs.cache
+C:\Projects\Olympus.Commerce\src\dotnet\Olympus.Commerce.Product\Olympus.Commerce.Product.Infra\bin\Debug\net7.0\Olympus.Commerce.Product.Infra.deps.json
+C:\Projects\Olympus.Commerce\src\dotnet\Olympus.Commerce.Product\Olympus.Commerce.Product.Infra\bin\Debug\net7.0\Olympus.Commerce.Product.Infra.runtimeconfig.json
+C:\Projects\Olympus.Commerce\src\dotnet\Olympus.Commerce.Product\Olympus.Commerce.Product.Infra\bin\Debug\net7.0\Olympus.Commerce.Product.Infra.dll
+C:\Projects\Olympus.Commerce\src\dotnet\Olympus.Commerce.Product\Olympus.Commerce.Product.Infra\bin\Debug\net7.0\Olympus.Commerce.Product.Infra.pdb
+C:\Projects\Olympus.Commerce\src\dotnet\Olympus.Commerce.Product\Olympus.Commerce.Product.Infra\bin\Debug\net7.0\Olympus.Commerce.Product.dll
+C:\Projects\Olympus.Commerce\src\dotnet\Olympus.Commerce.Product\Olympus.Commerce.Product.Infra\bin\Debug\net7.0\Olympus.Commerce.Product.pdb
+C:\Projects\Olympus.Commerce\src\dotnet\Olympus.Commerce.Product\Olympus.Commerce.Product.Infra\obj\Debug\net7.0\Olympus.Commerce.Product.Infra.csproj.CopyComplete
+C:\Projects\Olympus.Commerce\src\dotnet\Olympus.Commerce.Product\Olympus.Commerce.Product.Infra\obj\Debug\net7.0\Olympus.Commerce.Product.Infra.dll
+C:\Projects\Olympus.Commerce\src\dotnet\Olympus.Commerce.Product\Olympus.Commerce.Product.Infra\obj\Debug\net7.0\refint\Olympus.Commerce.Product.Infra.dll
+C:\Projects\Olympus.Commerce\src\dotnet\Olympus.Commerce.Product\Olympus.Commerce.Product.Infra\obj\Debug\net7.0\Olympus.Commerce.Product.Infra.pdb
+C:\Projects\Olympus.Commerce\src\dotnet\Olympus.Commerce.Product\Olympus.Commerce.Product.Infra\obj\Debug\net7.0\Olympus.Commerce.Product.Infra.genruntimeconfig.cache
+C:\Projects\Olympus.Commerce\src\dotnet\Olympus.Commerce.Product\Olympus.Commerce.Product.Infra\obj\Debug\net7.0\ref\Olympus.Commerce.Product.Infra.dll
